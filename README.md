@@ -5,6 +5,7 @@ Tugas Pemrograman Web Statis PESILAT Alkademi 2023
 https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
 ## Live Deploy
+https://gedearya.github.io/Product-Preview-Card-Component/
 
 
 ## Desktop Design
